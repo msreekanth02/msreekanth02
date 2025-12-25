@@ -1,16 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sreekanth%20Matturthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Automation%20Developer%20%7C%2020%2B%20Years%20in%20IT&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sreekanth%20Matturthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Automation%20Developer%20%7C%2020%2B%20Years%20in%20IT&descAlignY=55&descSize=18">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sreekanth%20Matturthi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Automation%20Developer%20%7C%2020%2B%20Years%20in%20IT&descAlignY=55&descSize=18" alt="header"/>
-</picture>
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Infrastructure+as+Code+Expert;Cloud+Architecture+%26+DevOps;Kubernetes+%26+Container+Orchestration;Automation+Enthusiast)](https://git.io/typing-svg)
+# Hi there, I'm Sreekanth Matturthi 👋
+### Cloud Automation Developer | 20+ Years in IT
 
-[![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/msreekanth02)
-[![GitHub followers](https://img.shields.io/github/followers/msreekanth02?style=for-the-badge&color=667eea&labelColor=1a1b27)](https://github.com/msreekanth02?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/msreekanth02?style=for-the-badge&color=764ba2&labelColor=1a1b27)](https://github.com/msreekanth02?tab=repositories)
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Expert;Cloud+Architecture+%26+DevOps;Kubernetes+%26+Container+Orchestration;Automation+Enthusiast)
+
+![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/msreekanth02?style=for-the-badge&color=667eea&labelColor=1a1b27)
+![GitHub stars](https://img.shields.io/github/stars/msreekanth02?style=for-the-badge&color=764ba2&labelColor=1a1b27)
 
 </div>
 
@@ -35,7 +36,7 @@ expertise:
 philosophy: "Automate everything that can be automated"
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently working on **AI-powered applications** and **Cloud Infrastructure**
 - 🌱 Exploring **Large Language Models** and **AI Automation**
@@ -87,16 +88,13 @@ philosophy: "Automate everything that can be automated"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msreekanth02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreekanth02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msreekanth02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msreekanth02&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msreekanth02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msreekanth02&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=msreekanth02&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -104,7 +102,9 @@ philosophy: "Automate everything that can be automated"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msreekanth02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=msreekanth02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
 
 ---
@@ -113,14 +113,14 @@ philosophy: "Automate everything that can be automated"
 
 <div align="center">
 
-[![AWX on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=awx-on-kind-k8s-cluster&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/awx-on-kind-k8s-cluster)
-[![Crossplane on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=crossplane-on-kind&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/crossplane-on-kind)
+[![AWX on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=awx-on-kind-k8s-cluster&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/awx-on-kind-k8s-cluster)
+[![Crossplane on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=crossplane-on-kind&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/crossplane-on-kind)
 
-[![OllamaLearn Hub](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=OllamaLearn-Hub&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/OllamaLearn-Hub)
-[![AI Weather Assistant](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ai-weather-assistant&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/ai-weather-assistant)
+[![OllamaLearn Hub](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=OllamaLearn-Hub&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/OllamaLearn-Hub)
+[![AI Weather Assistant](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ai-weather-assistant&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/ai-weather-assistant)
 
-[![MongoDB on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=mongodb-on-kind&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/mongodb-on-kind)
-[![LDAP on K8s](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ldap-on-k8s&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/msreekanth02/ldap-on-k8s)
+[![MongoDB on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=mongodb-on-kind&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/mongodb-on-kind)
+[![LDAP on K8s](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ldap-on-k8s&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/ldap-on-k8s)
 
 </div>
 
@@ -142,14 +142,8 @@ philosophy: "Automate everything that can be automated"
 <div align="center">
   
 ### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 </div>
 
 <div align="center">
