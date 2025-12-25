@@ -96,6 +96,7 @@ philosophy: "Automate everything that can be automated"
 | [🌤️ AI Weather Assistant](https://github.com/msreekanth02/ai-weather-assistant) | Intelligent weather app with AI-powered analysis and NLP | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🍃 MongoDB on Kind](https://github.com/msreekanth02/mongodb-on-kind) | MongoDB deployment on Kind Kubernetes cluster | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [📁 LDAP on K8s](https://github.com/msreekanth02/ldap-on-k8s) | LDAP server deployment on Kubernetes | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [🦙 Ollama on K8S](https://github.com/msreekanth02/ollama-on-k8s) | Ollama LLM deployment and management on Kubernetes | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
 
