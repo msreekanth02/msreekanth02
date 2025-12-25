@@ -85,44 +85,16 @@ philosophy: "Automate everything that can be automated"
 
 ---
 
-## 📊 GitHub Analytics
+## � Featured Projects
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msreekanth02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msreekanth02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=msreekanth02&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=msreekanth02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![AWX on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=awx-on-kind-k8s-cluster&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/awx-on-kind-k8s-cluster)
-[![Crossplane on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=crossplane-on-kind&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/crossplane-on-kind)
-
-[![OllamaLearn Hub](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=OllamaLearn-Hub&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/OllamaLearn-Hub)
-[![AI Weather Assistant](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ai-weather-assistant&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/ai-weather-assistant)
-
-[![MongoDB on Kind](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=mongodb-on-kind&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/mongodb-on-kind)
-[![LDAP on K8s](https://github-readme-stats.vercel.app/api/pin/?username=msreekanth02&repo=ldap-on-k8s&theme=tokyonight&hide_border=true)](https://github.com/msreekanth02/ldap-on-k8s)
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🎯 AWX on Kind](https://github.com/msreekanth02/awx-on-kind-k8s-cluster) | AWX Tower deployment using Kind Kubernetes cluster with AWX Operator | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [☁️ Crossplane on Kind](https://github.com/msreekanth02/crossplane-on-kind) | Complete Crossplane setup with automated scripts and interactive menu | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [🤖 OllamaLearn Hub](https://github.com/msreekanth02/OllamaLearn-Hub) | Learn Ollama & LLMs interactively with 6 Python examples + web interface | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| [🌤️ AI Weather Assistant](https://github.com/msreekanth02/ai-weather-assistant) | Intelligent weather app with AI-powered analysis and NLP | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+| [🍃 MongoDB on Kind](https://github.com/msreekanth02/mongodb-on-kind) | MongoDB deployment on Kind Kubernetes cluster | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [📁 LDAP on K8s](https://github.com/msreekanth02/ldap-on-k8s) | LDAP server deployment on Kubernetes | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
 
@@ -141,13 +113,10 @@ philosophy: "Automate everything that can be automated"
 
 <div align="center">
   
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
+### � Let's Connect!
   
+*"Automate everything that can be automated"*
+
 ⭐️ From [msreekanth02](https://github.com/msreekanth02) | Happy Coding! 🚀
 
 </div>
