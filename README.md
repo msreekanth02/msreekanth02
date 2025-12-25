@@ -91,6 +91,7 @@ philosophy: "Automate everything that can be automated"
 |---------|-------------|------|
 | [🎯 AWX on Kind](https://github.com/msreekanth02/awx-on-kind-k8s-cluster) | AWX Tower deployment using Kind Kubernetes cluster with AWX Operator | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [☁️ Crossplane on Kind](https://github.com/msreekanth02/crossplane-on-kind) | Complete Crossplane setup with automated scripts and interactive menu | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [📄 Document Reader Ollama](https://github.com/msreekanth02/document_reader_ollama) | AI-powered document reader using Ollama for intelligent document analysis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🤖 OllamaLearn Hub](https://github.com/msreekanth02/OllamaLearn-Hub) | Learn Ollama & LLMs interactively with 6 Python examples + web interface | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | [🌤️ AI Weather Assistant](https://github.com/msreekanth02/ai-weather-assistant) | Intelligent weather app with AI-powered analysis and NLP | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🍃 MongoDB on Kind](https://github.com/msreekanth02/mongodb-on-kind) | MongoDB deployment on Kind Kubernetes cluster | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
