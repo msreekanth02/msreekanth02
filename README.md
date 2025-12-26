@@ -90,6 +90,7 @@ philosophy: "Automate everything that can be automated"
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🎯 AWX on Kind](https://github.com/msreekanth02/awx-on-kind-k8s-cluster) | AWX Tower deployment using Kind Kubernetes cluster with AWX Operator | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| [⚙️ AWX Config as Code](https://github.com/msreekanth02/awx-config-as-code) | Configuration as Code for AWX with automated setup and management | ![YAML](https://img.shields.io/badge/-YAML-ffffff?style=flat&logo=yaml&logoColor=151515) |
 | [☁️ Crossplane on Kind](https://github.com/msreekanth02/crossplane-on-kind) | Complete Crossplane setup with automated scripts and interactive menu | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [📄 Document Reader Ollama](https://github.com/msreekanth02/document_reader_ollama) | AI-powered document reader using Ollama for intelligent document analysis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🤖 OllamaLearn Hub](https://github.com/msreekanth02/OllamaLearn-Hub) | Learn Ollama & LLMs interactively with 6 Python examples + web interface | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
