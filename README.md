@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Expert;Cloud+Architecture+%26+DevOps;Kubernetes+%26+Container+Orchestration;Automation+Enthusiast)
 
-![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS&exclude_owner=1)
+![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS&count_private=false)
 ![GitHub followers](https://img.shields.io/github/followers/msreekanth02?style=for-the-badge&color=667eea&labelColor=1a1b27)
 ![GitHub stars](https://img.shields.io/github/stars/msreekanth02?style=for-the-badge&color=764ba2&labelColor=1a1b27)
 
