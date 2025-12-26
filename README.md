@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Expert;Cloud+Architecture+%26+DevOps;Kubernetes+%26+Container+Orchestration;Automation+Enthusiast)
 
-![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=msreekanth02&color=667eea&style=for-the-badge&label=PROFILE+VIEWS&exclude_owner=1)
 ![GitHub followers](https://img.shields.io/github/followers/msreekanth02?style=for-the-badge&color=667eea&labelColor=1a1b27)
 ![GitHub stars](https://img.shields.io/github/stars/msreekanth02?style=for-the-badge&color=764ba2&labelColor=1a1b27)
 
@@ -91,6 +91,7 @@ philosophy: "Automate everything that can be automated"
 |---------|-------------|------|
 | [🎯 AWX on Kind](https://github.com/msreekanth02/awx-on-kind-k8s-cluster) | AWX Tower deployment using Kind Kubernetes cluster with AWX Operator | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [⚙️ AWX Config as Code](https://github.com/msreekanth02/awx-config-as-code) | Configuration as Code for AWX with automated setup and management | ![YAML](https://img.shields.io/badge/-YAML-ffffff?style=flat&logo=yaml&logoColor=151515) |
+| [📊 Grafana Operator on Kind](https://github.com/msreekanth02/grafana-operator-on-kind) | Grafana Operator deployment on Kubernetes (KIND) cluster with automated setup | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [☁️ Crossplane on Kind](https://github.com/msreekanth02/crossplane-on-kind) | Complete Crossplane setup with automated scripts and interactive menu | ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
 | [📄 Document Reader Ollama](https://github.com/msreekanth02/document_reader_ollama) | AI-powered document reader using Ollama for intelligent document analysis | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🤖 OllamaLearn Hub](https://github.com/msreekanth02/OllamaLearn-Hub) | Learn Ollama & LLMs interactively with 6 Python examples + web interface | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
